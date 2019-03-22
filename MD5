@@ -1,6 +1,6 @@
-f9416db07a4c8c81662fa66f88520cfe *DESCRIPTION
+1042e252ea286b0403164ac3842600dd *DESCRIPTION
 0f648a2d64e7570ae21d4f58ffdaa5bc *NAMESPACE
-39f2c4c540f7dfc7fffc77f8a6d4b1e4 *R/apparent.R
+88578b31bf0f8dbfbc470fc700da810d *R/apparent.R
 4c13656740846ba40857469797b87814 *data/apparent_TestData.txt.gz
-5f6a6e9b6cb1d1d95b311b77761b3baa *man/apparent.Rd
+961bce8b9afe53102c94543ff8fb4fbd *man/apparent.Rd
 20a9d48a6c67cf9feb35b6996f383f61 *man/apparent_TestData.Rd
